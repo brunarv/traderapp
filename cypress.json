@@ -1,0 +1,7 @@
+{
+    "testFiles": [
+        "validate_UI.js",
+        "validate_fields.js",
+        "feature_buy.js"
+      ]
+}
